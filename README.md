@@ -1,9 +1,6 @@
 # Parrot
-COMSOL-like OpenSource multiphysics field PDE solver
+My pet language
 
 ## Features
-Working
-May based on the Sfepy
-
-## Requirements
-Numpy, Scipy, Matplotlib, PyQt4, Mayavi, VTK, Autograd
++ Experimental language features
++ System interface supported
