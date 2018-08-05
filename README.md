@@ -1,5 +1,6 @@
 # Parrot
-My pet language
+>My pet language (Just for fun)
+
 
 ## Features
 + Experimental language features
